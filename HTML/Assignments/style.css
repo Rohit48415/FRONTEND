@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: ;
+
+}
+body{
+    background-color: rgb(197, 179, 155);
+}
+
+h1{
+    text-align: center;
+}
+header{
+    background-color: blue;
+}
+.header{
+    background-color: aquamarine;
+}
+#header_main{
+    background-color: rgb(237, 138, 138);
+}
