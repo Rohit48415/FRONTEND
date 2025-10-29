@@ -110,7 +110,7 @@
 
     .card h3 {
       margin: 1rem 0 0.5rem;
-      color: var(--text);
+      color: var(--text); 
     }
 
     .card p {
@@ -133,7 +133,7 @@
     }
 
     .buy-btn:hover {
-      background: #e85a4f;
+      background: #46d854;
     }
 
     /* ===== Blog Layout ===== */
